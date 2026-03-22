@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_beryl.mk
+    $(LOCAL_DIR)/twrp_beryl.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_beryl-user \
-    omni_beryl-userdebug \
-    omni_beryl-eng
+    twrp_beryl-user \
+    twrp_beryl-userdebug \
+    twrp_beryl-eng
